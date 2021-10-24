@@ -8,7 +8,7 @@
 
 ## Live demo
 
-[Netlify Live link]()
+[Netlify Live link](https://elyor-doniyorov.netlify.app)
 
 ## Getting Started
 
