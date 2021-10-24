@@ -14,7 +14,7 @@
 
 ### To get a local copy run the following steps:
 
-- Copy this link ``
+- Copy this link `https://github.com/elyor-doniyorov/potfolio.git`
 - Open your terminal or command line
 - Run `git clone` and paste the link
 - Open the folder with your code editor
@@ -34,7 +34,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/elyor-doniyorov/potfolio/issues/1).
 
 ## Show your support
 
