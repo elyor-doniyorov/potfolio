@@ -7,10 +7,10 @@ function About() {
             <h2 class="top-title">Elyor Doniyorov</h2>
             <hr></hr>
             <div className="d-flex">
-                <img class="mb-5" id="avatar" src="https://avatars.githubusercontent.com/u/67087664?v=4" alt="Michael Giddings" />
+                <img class="mb-5" id="avatar" src="https://avatars.githubusercontent.com/u/67087664?v=4" alt="Elyor Doniyorov" />
                 <div>
                     <p>
-                    Hello, Friends. I am Elyor a Full-stack Web Developer and student at Microverse. 
+                    Hello, Friends. I am Elyor a Full-stack Web Developer from Uzbekistan and student at Microverse. 
                     I love coding, travel, and reading books.
                     </p>
                     <p>
