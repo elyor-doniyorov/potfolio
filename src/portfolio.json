@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Math-Magicians",
+        "image": "https://raw.githubusercontent.com/elyor-doniyorov/my-math-magicians/setup/Screenshot.png",
+        "github": "https://github.com/elyor-doniyorov/my-math-magicians",
+        "deploy": "https://affectionate-mccarthy-0f6d73.netlify.app/",
+        "topics": "React.js, react-router-dom, jest, big.js"
+    },
+    {
+        "id": 2,
+        "name": "BookStore",
+        "image": "https://raw.githubusercontent.com/elyor-doniyorov/bookstore-redux/dev/images/Screenshot.png",
+        "github": "https://github.com/elyor-doniyorov/bookstore-redux",
+        "deploy": "https://bookstore-react--app.herokuapp.com/",
+        "topics": "React.js, Redux, Heroku"
+    },
+    {
+        "id": 3,
+        "name": "Favorite Companies",
+        "image": "https://raw.githubusercontent.com/elyor-doniyorov/favorite-companies/development/images/HomePage.png",
+        "github": "https://github.com/elyor-doniyorov/favorite-companies",
+        "deploy": "https://eager-pare-cfd7fe.netlify.app/",
+        "topics": "JSX, Javascript, React, Redux, Netlify, API"
+    },
+    {
+        "id": 4,
+        "name": "Online Pet's Food Shop",
+        "image": "https://raw.githubusercontent.com/elyor-doniyorov/Capstone-Project-Pet-s-Shop/main/images/capstone.png",
+        "github": "https://github.com/elyor-doniyorov/Capstone-Project-Pet-s-Shop",
+        "deploy": "https://rawcdn.githack.com/elyor-doniyorov/Capstone-Project-Pet-s-Shop/6887ae224b4abfa4820ac8fb1a6c38846edf9bb1/index.html",
+        "topics": "HTML, CSS, Bootstrap"
+    },
+    {
+        "id": 5,
+        "name": "Space Travelers' Hub",
+        "image": "https://raw.githubusercontent.com/elyor-doniyorov/space-travelers/dev/src/img/rockets.PNG",
+        "github": "https://github.com/elyor-doniyorov/space-travelers",
+        "deploy": "https://space-travelers.netlify.app/",
+        "topics": "node, react, API, redux"
+    },
+    {
+        "id": 6,
+        "name": "The TaTme",
+        "image": "https://raw.githubusercontent.com/elyor-doniyorov/Rails-Cap-Twitter/development/app/assets/images/home.png",
+        "github": "https://github.com/elyor-doniyorov/Rails-Cap-Twitter",
+        "deploy": "https://tweety-tatme.herokuapp.com/users/sign_in",
+        "topics": "Ruby, Rails, Devise, Rspec, Bootstrap, Cloudinary, Postgresql"
+    }
+]
